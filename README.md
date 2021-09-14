@@ -1,8 +1,5 @@
 # Team-Profile-Generator
 
-## URL 
-
-
 ## Description
 This is a a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. This allows the project creator to devote more time to working on their project.
 
@@ -33,3 +30,6 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
+
+## Video Walkthrough 
+https://drive.google.com/file/d/1E1Xak7uITD5JiuwDrcACExKXyGGvPdx9/view?usp=sharing
