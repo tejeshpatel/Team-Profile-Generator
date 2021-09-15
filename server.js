@@ -132,7 +132,16 @@ function appMenu() {
 
   function addIntern() {
     inquirer.prompt([
-
+       {
+        type: 'input',
+        name: 'internName',
+        message: 'What is the intern name?'
+      },
+      {
+        type: 'input',
+        name: 'internId',
+        message: 'What is the intern ID?'
+      },
       {
         type: 'input',
         name: 'internEmail',
