@@ -32,4 +32,4 @@ THEN I exit the application, and the HTML is generated
 ```
 
 ## Video Walkthrough 
-https://drive.google.com/file/d/1E1Xak7uITD5JiuwDrcACExKXyGGvPdx9/view?usp=sharing
+https://youtu.be/SguVXRfJ6Fo
